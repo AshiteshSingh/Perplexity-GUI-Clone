@@ -1,0 +1,126 @@
+API Request: {"model":"groq","isDeepResearch":false,"isBrowsing":false,"messageCount":1}
+API Request: {"model":"groq","isDeepResearch":false,"isBrowsing":false,"messageCount":1}
+API Request: {"model":"groq","isDeepResearch":false,"isBrowsing":false,"messageCount":1}
+API Request: {"model":"groq","isDeepResearch":false,"isBrowsing":false,"messageCount":1}
+API Request: {"model":"groq","isDeepResearch":false,"isBrowsing":false,"messageCount":1}
+API Request: {"model":"groq","isDeepResearch":false,"isBrowsing":false,"messageCount":1}
+API Request: {"model":"groq","isDeepResearch":false,"isBrowsing":false,"messageCount":1}
+API Request: {"model":"groq","isDeepResearch":false,"isBrowsing":false,"messageCount":1}
+API Request: {"model":"groq","isDeepResearch":false,"isBrowsing":false,"messageCount":1}
+API Request: {"messageCount":1}
+API Request: {"messageCount":1}
+API Request: {"messageCount":1}
+API Request: {"messageCount":2}
+API Request: {"messageCount":1}
+API Request: {"messageCount":2}
+API Request: {"messageCount":3}
+API Request: {"messageCount":4}
+API Request: {"messageCount":1}
+API Request: {"messageCount":1}
+API Request: {"model":"hf","messageCount":1}
+API Request: {"messageCount":2}
+API Request: {"messageCount":1}
+API Error: Unauthorized
+API Request: {"messageCount":1}
+API Error: TypeError: result.toAIStreamResponse is not a function
+API Request: {"messageCount":1}
+API Request: {"messageCount":1}
+API Request: {"messageCount":1}
+API Request: {"messageCount":1}
+API Request: {"messageCount":1}
+API Request: {"messageCount":3}
+API Request: {"messageCount":4}
+API Request: {"messageCount":1}
+API Request: {"messageCount":1}
+API Request: {"messageCount":3}
+API Request: {"messageCount":1}
+API Request: {"messageCount":3}
+API Request: {"messageCount":1}
+API Request: {"messageCount":1}
+API Error: TypeError: result.toDataStreamResponse is not a function
+API Request: {"messageCount":3}
+API Error: TypeError: result.toDataStreamResponse is not a function
+API Request: {"messageCount":2}
+Result keys: ["_totalUsage","_finishReason","_steps","output","includeRawChunks","tools","addStream","closeStream","baseStream"]
+API Request: {"messageCount":1}
+Result keys: ["_totalUsage","_finishReason","_steps","output","includeRawChunks","tools","addStream","closeStream","baseStream"]
+API Request: {"messageCount":2}
+Result keys: ["_totalUsage","_finishReason","_steps","output","includeRawChunks","tools","addStream","closeStream","baseStream"]
+Proto keys: ["constructor","steps","finalStep","content","warnings","providerMetadata","text","reasoningText","reasoning","sources","files","toolCalls","staticToolCalls","dynamicToolCalls","toolResults","staticToolResults","dynamicToolResults","usage","request","response","totalUsage","finishReason","teeStream","textStream","fullStream","consumeStream","experimental_partialOutputStream","toUIMessageStream","pipeUIMessageStreamToResponse","pipeTextStreamToResponse","toUIMessageStreamResponse","toTextStreamResponse"]
+API Error: TypeError: result.toDataStreamResponse is not a function
+API Request: {"model":"groq","messageCount":1}
+Result keys: ["_totalUsage","_finishReason","_steps","output","includeRawChunks","tools","addStream","closeStream","baseStream"]
+Proto keys: ["constructor","steps","finalStep","content","warnings","providerMetadata","text","reasoningText","reasoning","sources","files","toolCalls","staticToolCalls","dynamicToolCalls","toolResults","staticToolResults","dynamicToolResults","usage","request","response","totalUsage","finishReason","teeStream","textStream","fullStream","consumeStream","experimental_partialOutputStream","toUIMessageStream","pipeUIMessageStreamToResponse","pipeTextStreamToResponse","toUIMessageStreamResponse","toTextStreamResponse"]
+API Error: TypeError: result.toDataStreamResponse is not a function
+API Request: {"messageCount":1}
+API Request: {"messageCount":1}
+API Request: {"messageCount":3}
+API Request: {"messageCount":1}
+API Request: {"messageCount":3}
+API Request: {"messageCount":1}
+API Request: {"messageCount":1}
+API Error: TypeError: Cannot read properties of undefined (reading 'map')
+API Request: {"messageCount":1}
+API Error: TypeError: Cannot read properties of undefined (reading 'map')
+API Request: {"messageCount":1}
+API Error: TypeError: Cannot read properties of undefined (reading 'map')
+API Request: {"messageCount":1}
+Messages: [{"role":"user","content":"Structure check","id":"3qYW86C60lBo6pIf"}]
+API Error: TypeError: Cannot read properties of undefined (reading 'map')
+API Request: {"model":"groq","messageCount":1}
+Messages: [{"role":"user","content":"Manual map test"}]
+API Request: {"messageCount":1}
+Messages: [{"role":"user","content":"hello","id":"lsZLw49zGdZBjs1Z"}]
+API Request: {"messageCount":3}
+Messages: [{"role":"user","content":"hello","id":"lsZLw49zGdZBjs1Z"},{"id":"zJ6myoCMGe4Am8zY","role":"assistant","parts":[{"type":"step-start"},{"type":"text","text":"Hello. I'm here to help with any coding questions or problems you might have. What programming language or topic are you working with today?","providerMetadata":{"openai":{"itemId":"msg_01kar1xv2fe9drt6f3dg6cx7dx"}},"state":"done"},{"type":"reasoning","text":"","providerMetadata":{"openai":{"itemId":"resp_01kar1xv29e9dt7exb0ce7azgk","reasoningEncryptedContent":null}},"state":"done"}]},{"role":"user","content":"hello","id":"BZifJ53ENaTOaWT0"}]
+API Request: {"messageCount":4}
+Messages: [{"role":"user","content":"hello","id":"lsZLw49zGdZBjs1Z"},{"id":"zJ6myoCMGe4Am8zY","role":"assistant","parts":[{"type":"step-start"},{"type":"text","text":"Hello. I'm here to help with any coding questions or problems you might have. What programming language or topic are you working with today?","providerMetadata":{"openai":{"itemId":"msg_01kar1xv2fe9drt6f3dg6cx7dx"}},"state":"done"},{"type":"reasoning","text":"","providerMetadata":{"openai":{"itemId":"resp_01kar1xv29e9dt7exb0ce7azgk","reasoningEncryptedContent":null}},"state":"done"}]},{"role":"user","content":"hello","id":"BZifJ53ENaTOaWT0"},{"role":"user","content":"ff","id":"Q80wynMVqWOpzwPS"}]
+API Request: {"messageCount":1}
+Messages: [{"role":"user","content":"nh","id":"9a1fAdAzxazLrpWL"}]
+API Request: {"messageCount":1}
+Messages: [{"role":"user","content":"hello","id":"MlNHE32K92QkGWLI"}]
+API Request: {"messageCount":1}
+Messages: [{"role":"user","content":"sdf","id":"mGyO2Dm2TTcjgMGO"}]
+API Request: {"messageCount":3}
+Messages: [{"role":"user","content":"sdf","id":"mGyO2Dm2TTcjgMGO"},{"id":"yeRadECSz3P9xsqD","role":"assistant","parts":[{"type":"step-start"},{"type":"text","text":"It seems like you may have entered an incomplete or unclear command. Could you please provide more context or clarify what you are trying to accomplish? I'm here to help with any coding or technical questions you may have.","providerMetadata":{"openai":{"itemId":"msg_01kar5h2t9fqxb5bhsf8h7q00v"}},"state":"done"},{"type":"reasoning","text":"","providerMetadata":{"openai":{"itemId":"resp_01kar5h2t6fqx8nym36gyk7gth","reasoningEncryptedContent":null}},"state":"done"}]},{"role":"user","content":"cgeck by ur self ai is not answering properly","id":"AWvUgvUHAff29NUk"}]
+API Request: {"messageCount":1}
+Messages: [{"role":"user","content":"hello","id":"htm976qaulo4jqFe"}]
+API Error: TypeError: Cannot read properties of undefined (reading 'map')
+API Request: {"messageCount":1}
+Messages: [{"role":"user","content":"hello","id":"G5UYqX35J7O8W2Os"}]
+API Error: TypeError: Cannot read properties of undefined (reading 'map')
+API Request: {"messageCount":1}
+Messages: [{"role":"user","content":"h","id":"xLoCVUNpFN0kAxI5"}]
+API Error: TypeError: Cannot read properties of undefined (reading 'map')
+API Request: {"messageCount":1}
+Messages: [{"role":"user","content":"hello","id":"ELAvvpzrfGtJrOzr"}]
+API Error: TypeError: Cannot read properties of undefined (reading 'map')
+API Request: {"messageCount":1}
+Messages: [{"role":"user","content":"hello","id":"yg5IqsIkrIGJTZbJ"}]
+API Error: TypeError: Cannot read properties of undefined (reading 'map')
+API Request: {"messageCount":1}
+Messages: [{"role":"user","content":"hlo","id":"cR57H6JXPbJECbGd"}]
+API Request: {"messageCount":3}
+Messages: [{"role":"user","content":"hlo","id":"cR57H6JXPbJECbGd"},{"id":"osysz8bBZi9A4OUG","role":"assistant","parts":[{"type":"step-start"},{"type":"text","text":"Hello. How can I assist you with coding today?","providerMetadata":{"openai":{"itemId":"msg_01kar6hvgsfrvskd2m98kdt2x0"}},"state":"done"},{"type":"reasoning","text":"","providerMetadata":{"openai":{"itemId":"resp_01kar6hvgffrvsgdjbz9qqt77j","reasoningEncryptedContent":null}},"state":"done"}]},{"role":"user","content":"who is the pm of india?","id":"MXvJLzpqylLtPhSi"}]
+API Request: {"messageCount":1}
+Messages: [{"role":"user","content":"helo","id":"4RCMzz8B0epORGIQ"}]
+API Request: {"messageCount":3}
+Messages: [{"role":"user","content":"helo","id":"4RCMzz8B0epORGIQ"},{"id":"lrUPvtXA7m8hRAQV","role":"assistant","parts":[{"type":"step-start"},{"type":"text","text":"**Hello**\n\nIt's nice to meet you. I'm here to help with any coding questions or problems you'd like to solve. What programming topic would you like to discuss or what issue are you trying to resolve?","providerMetadata":{"openai":{"itemId":"msg_01kar6kas4fvz8hqkd50f2wjr7"}},"state":"done"},{"type":"reasoning","text":"","providerMetadata":{"openai":{"itemId":"resp_01kar6karwfvzbw2xf8vf80zdd","reasoningEncryptedContent":null}},"state":"done"}]},{"role":"user","content":"hello","id":"szpRQXNKMrtbdeob"}]
+API Request: {"messageCount":1}
+Messages: [{"role":"user","content":"hekllo","id":"AzdbJvimnV7Ndc82"}]
+API Request: {"messageCount":3}
+Messages: [{"role":"user","content":"hekllo","id":"AzdbJvimnV7Ndc82"},{"id":"BwsKFKDqUjlj8WVo","role":"assistant","parts":[{"type":"step-start"},{"type":"text","text":"Hello. How can I assist you with coding today? Do you have a specific problem or project you'd like help with?","providerMetadata":{"openai":{"itemId":"msg_01kar6y1b9ekv8zvtkr7cf1z5n"}},"state":"done"},{"type":"reasoning","text":"","providerMetadata":{"openai":{"itemId":"resp_01kar6y1b6ekvb7w1g6bma3vva","reasoningEncryptedContent":null}},"state":"done"}]},{"role":"user","content":"hello'","id":"esNWBCiXAOH68152"}]
+API Request: {"messageCount":1}
+Messages: [{"role":"user","content":"fg]","id":"Qw24clr3yIeWY6ko"}]
+API Request: {"messageCount":2}
+Messages: [{"role":"user","content":"fg]","id":"Qw24clr3yIeWY6ko"},{"role":"user","content":"zsdfgh","id":"YPv3xKOp0Eu2X8f9"}]
+API Request: {"messageCount":3}
+Messages: [{"role":"user","content":"fg]","id":"Qw24clr3yIeWY6ko"},{"role":"user","content":"zsdfgh","id":"YPv3xKOp0Eu2X8f9"},{"role":"user","content":"gg","id":"pcUKjMS5S0uYlhRT"}]
+API Request: {"messageCount":1}
+Messages: [{"role":"user","content":"hhh","id":"daSWNzu4CKash1PF"}]
+API Request: {"messageCount":2}
+Messages: [{"role":"user","content":"hhh","id":"daSWNzu4CKash1PF"},{"role":"user","content":"hhhh","id":"Y0sMiBjloc5baDCX"}]
+API Request: {"messageCount":3}
+Messages: [{"role":"user","content":"hhh","id":"daSWNzu4CKash1PF"},{"role":"user","content":"hhhh","id":"Y0sMiBjloc5baDCX"},{"role":"user","content":"hhhhhh","id":"PD8CnX4szdQTiwRh"}]
+API Request: {"messageCount":4}
+Messages: [{"role":"user","content":"hhh","id":"daSWNzu4CKash1PF"},{"role":"user","content":"hhhh","id":"Y0sMiBjloc5baDCX"},{"role":"user","content":"hhhhhh","id":"PD8CnX4szdQTiwRh"},{"role":"user","content":"lkjhgvc","id":"BBMD7ObU3bsUyhKv"}]
