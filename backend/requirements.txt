@@ -1,5 +1,0 @@
-fastapi
-uvicorn
-python-dotenv
-openai
-huggingface_hub
